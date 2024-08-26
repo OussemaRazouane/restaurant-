@@ -10,4 +10,4 @@ class ScreenSize {
   }
 }
 
-const Color kprimaryColor=Colors.orange;
+const Color kPrimaryColor=Colors.orange;
